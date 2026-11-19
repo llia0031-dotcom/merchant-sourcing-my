@@ -384,7 +384,8 @@ def main() -> int:
              "Sheet 'candidates': every filled field is backed by a verbatim quote from a saved public page (pool/claims.json). "
              "'not found in public sources' means only that; it is not a judgement of the merchant.",
              "Sheet 'sources': every page quoted, with the date it was read. Third-party sales figures are estimates by the named source."]
-    write_xlsx(ROOT / "pool" / "merchant_pool.xlsx", {"priority": scored, "candidates": rows, "sources": src_rows}, notes)
+    priority = [{k: s[k] for k in cols} for s in scored]   # rank first, the same columns as scores.csv
+    write_xlsx(ROOT / "pool" / "merchant_pool.xlsx", {"priority": priority, "candidates": rows, "sources": src_rows}, notes)
     tiers = {t: sum(s["tier"] == t for s in scored) for t in "ABC"}
     print(f"built {len(rows)} candidates, {len(E.claims)} checked values; tiers {tiers}")
     for s in scored[:12]:
