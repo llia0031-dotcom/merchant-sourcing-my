@@ -1,0 +1,2344 @@
+{
+ "candidates": [
+  {
+   "brand": "HONOR",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store",
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "honor-lowyat",
+      "quote": "link: official website -> https://www.honor.com/my/shop/new-launch/"
+     },
+     {
+      "source": "honor-weirdkaya",
+      "quote": "From Oct 10 onwards, the HONOR X9d 5G will be available at HONOR Experience Stores nationwide, the official HONOR website, and major e-commerce platforms, including Lazada, Shopee, and TikTok Shop."
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "honor-weirdkaya",
+      "quote": "From Oct 10 onwards, the HONOR X9d 5G will be available at HONOR Experience Stores nationwide, the official HONOR website, and major e-commerce platforms, including Lazada, Shopee, and TikTok Shop."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "honor-lowyat",
+      "quote": "HONOR Malaysia will livestream the launch event on its official Facebook page at 7 PM local time."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "realme",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "DTL MALAYSIA SDN. BHD.",
+    "evidence": [
+     {
+      "source": "realme-home",
+      "quote": "Distributor：DTL MALAYSIA SDN. BHD. (1475734-V)"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "realme-lowyat",
+      "quote": "link: Shopee -> https://shopee.com.my/realme_os"
+     },
+     {
+      "source": "realme-lowyat",
+      "quote": "link: Lazada -> https://www.lazada.com.my/shop/realme-official-store/"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "realme-lowyat",
+      "quote": "customers can get the phones through the brand’s physical and online platforms, including Shopee , Lazada , and TikTok Shop ."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "realme-home",
+      "quote": "link: realme facebook -> https://www.facebook.com/RealmeMalaysia/"
+     },
+     {
+      "source": "realme-home",
+      "quote": "link: realme youtube -> https://www.youtube.com/channel/UCGTzNXK7ll44XcJWBzs1efA"
+     },
+     {
+      "source": "realme-home",
+      "quote": "link: realme instagram -> https://www.instagram.com/realmemalaysia/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "realme 16T | RM1,399",
+    "evidence": [
+     {
+      "source": "realme-lowyat",
+      "quote": "the realme 16T is priced at RM1,399"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Infinix",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "infinix-lowyat2",
+      "quote": "link: Shopee -> https://shopee.com.my/infinix.officialstore"
+     },
+     {
+      "source": "infinix-lowyat2",
+      "quote": "link: Lazada -> https://www.lazada.com.my/shop/infinix-official-store"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "infinix-lowyat2",
+      "quote": "Infinix’s new offerings can all be purchased through its Shopee , Lazada , and TikTok Shop stores as well as authorised retailers."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "Infinix Note 60 Pro | from RM1,199",
+    "evidence": [
+     {
+      "source": "infinix-lowyat",
+      "quote": "Infinix Note 60 Pro Now Official In Malaysia From RM1,199"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "TECNO",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee"
+    ],
+    "evidence": [
+     {
+      "source": "tecno-home",
+      "quote": "link: (icon) -> https://shopee.com.my/tecnomalaysia"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "tecno-lowyat",
+      "quote": "Ahead of the device’s arrival in Malaysia, the brand has opened pre-orders via TikTok Shop ."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "tecno-home",
+      "quote": "link: (icon) -> https://www.facebook.com/TECNOMobileMalaysia"
+     },
+     {
+      "source": "tecno-home",
+      "quote": "link: (icon) -> https://www.instagram.com/tecnomalaysia"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "nubia",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee"
+    ],
+    "evidence": [
+     {
+      "source": "nubia-lowyat",
+      "quote": "Those interested can purchase the phone via nubia’s official online stores, including Shopee , Lazada , and TikTok Shop ."
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "nubia-lowyat",
+      "quote": "Those interested can purchase the phone via nubia’s official online stores, including Shopee , Lazada , and TikTok Shop ."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "nubia A57 | RM549",
+    "evidence": [
+     {
+      "source": "nubia-lowyat",
+      "quote": "Priced at RM549, the nubia A57 comes in your choice of Dusk Black and Amber Orange."
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Xiaomi",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "xiaomi-home",
+      "quote": "link: Store -> //www.mi.com/my/store/"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "priceshop-xiaomi-tiktok-store-launch-2025",
+      "quote": "Xiaomi Malaysia has announced that they’ve finally launching their official store on TikTok Shop, and to celebrate the occasion they’re having a Super Grand Opening from 16 to 18 December 2025."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "xiaomi-home",
+      "quote": "link: Social Media-facebook -> https://www.facebook.com/XiaomiMalaysia"
+     },
+     {
+      "source": "xiaomi-home",
+      "quote": "link: Social Media-youtube -> https://www.youtube.com/channel/UCcczxc78yLO1xTo2kFjQzCw"
+     },
+     {
+      "source": "xiaomi-home",
+      "quote": "link: Social Media-instagram -> https://www.instagram.com/xiaomi.malaysia/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Samsung",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "global brand with a Malaysian company",
+    "entity": "Samsung Malaysia Electronics (SME) Sdn. Bhd.",
+    "evidence": [
+     {
+      "source": "samsung-home",
+      "quote": "Samsung Malaysia Electronics (SME) Sdn. Bhd. 200301026766 (629186-D)."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store",
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "samsung-home",
+      "quote": "link: Cart Number of Products : -> https://shop.samsung.com/my/cart"
+     },
+     {
+      "source": "samsung-gtm-tnc",
+      "quote": "Samsung Authorized Online Flagship Store (Tiktok, Shopee, and Lazada)"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "samsung-gtm-tnc",
+      "quote": "Samsung Authorized Online Flagship Store (Tiktok, Shopee, and Lazada)"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "samsung-home",
+      "quote": "link: Facebook : Open in a New Window -> //www.facebook.com/SamsungMalaysia/"
+     },
+     {
+      "source": "samsung-home",
+      "quote": "link: Youtube : Open in a New Window -> //www.youtube.com/user/SamsungMalaysia/"
+     },
+     {
+      "source": "samsung-home",
+      "quote": "link: Instagram : Open in a New Window -> //www.instagram.com/samsungmalaysia/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "OPPO",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "Jie Business Sdn. Bhd.",
+    "evidence": [
+     {
+      "source": "oppo-home",
+      "quote": "Copyright 2004-2026 OPPO. Authorized Exclusive Distributor: Jie Business Sdn. Bhd. (201301045364 (1075187-D)). All rights reserved."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store",
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "oppo-home",
+      "quote": "link: eStore -> https://www.oppo.com/my/store/"
+     },
+     {
+      "source": "oppo-anniversary-tnc",
+      "quote": "v. E-commerce Partners (Shopee, Lazada and Tiktok); and"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "oppo-home",
+      "quote": "link: facebook.com -> https://www.facebook.com/OPPOMalaysia"
+     },
+     {
+      "source": "oppo-home",
+      "quote": "link: youtube.com -> https://www.youtube.com/channel/UCVTUBt1Qv4dIDvT41kcUP1A"
+     },
+     {
+      "source": "oppo-home",
+      "quote": "link: instagram.com -> https://instagram.com/oppomalaysia"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "oppo-anniversary-tnc",
+      "quote": "v. E-commerce Partners (Shopee, Lazada and Tiktok); and"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "vivo",
+   "kind": "brand",
+   "subcategory": "Phones & tablets",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "vivo-home",
+      "quote": "link: E-Store -> https://shop.vivo.com/my"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "vivo-pokde",
+      "quote": "vivo Malaysia has announced the vivo x TikTok Super Brand Day, a three-day online sales event running from 24 to 26 March 2025, exclusively on vivo Malaysia’s Official TikTok Shop ."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Anker",
+   "kind": "brand",
+   "subcategory": "Charging & phone accessories",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "anker-pr",
+      "quote": "This year-end, bring it home for only MYR 159 , exclusively via Anker’s official Shopee , Lazada , and TikTok Shop ."
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "anker-pr",
+      "quote": "This year-end, bring it home for only MYR 159 , exclusively via Anker’s official Shopee , Lazada , and TikTok Shop ."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "anker-home",
+      "quote": "link: Jump to ins page -> https://www.instagram.com/ankerinnovations.my/?ref=footer"
+     },
+     {
+      "source": "anker-home",
+      "quote": "link: Jump to tikTok page -> https://www.tiktok.com/@ankerinnovationsmy?ref=footer"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "states Top 1 sales in related power bank categories on Shopee and Lazada in Malaysia (its own release)",
+    "level": "filing-or-award",
+    "evidence": [
+     {
+      "source": "anker-pr",
+      "quote": "This product has achieved the Top 1 [2] sales in related powerbank categories, in Shopee and Lazada in Malaysia"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "UGREEN",
+   "kind": "brand",
+   "subcategory": "Charging & phone accessories",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "ugreen-lowyat",
+      "quote": "Those interested can purchase the devices via the company’s Shopee , Lazada , and TikTok Shop pages."
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "ugreen-lowyat",
+      "quote": "Those interested can purchase the devices via the company’s Shopee , Lazada , and TikTok Shop pages."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "new charging products | RM479, RM189 and RM419",
+    "evidence": [
+     {
+      "source": "ugreen-lowyat",
+      "quote": "They are priced at RM479, RM189, and RM419, respectively."
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Belkin",
+   "kind": "brand",
+   "subcategory": "Charging & phone accessories",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Lazada",
+     "Shopee",
+     "other"
+    ],
+    "evidence": [
+     {
+      "source": "belkin-wtb",
+      "quote": "link: (icon) -> https://www.lazada.com.my/shop/belkin/?path=index.htm"
+     },
+     {
+      "source": "belkin-wtb",
+      "quote": "link: (icon) -> https://shopee.com.my/belkin.os"
+     },
+     {
+      "source": "belkin-wtb",
+      "quote": "link: (icon) -> https://shop.switch.com.my/shop?f_search=belkin"
+     }
+    ],
+    "labels": {
+     "other": "Switch online store"
+    }
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "belkin-home",
+      "quote": "link: Belkin Facebook -> https://www.facebook.com/belkinMalaysia"
+     },
+     {
+      "source": "belkin-home",
+      "quote": "link: Belkin Instagram -> https://www.instagram.com/belkin_my"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Energea",
+   "kind": "brand",
+   "subcategory": "Charging & phone accessories",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "Global Synergy Concepts Sdn Bhd",
+    "evidence": [
+     {
+      "source": "energea-wtb",
+      "quote": "Global Synergy Concepts Sdn Bhd ✉ info@globalsynergyconcepts.com.my ☎ +6011 5989 0370"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "Lazada",
+     "Shopee"
+    ],
+    "evidence": [
+     {
+      "source": "energea-lowyat",
+      "quote": "link: Lazada -> https://www.lazada.com.my/shop/energea-official-store/"
+     },
+     {
+      "source": "energea-lowyat",
+      "quote": "link: Shopee -> https://shopee.com.my/energeamy"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "energea-lowyat",
+      "quote": "Both the Tangerine Collection and the MagPac Pro 35s will be available starting November through online platforms such as Lazada , Shopee and TikTok Shop ,"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "global only",
+    "evidence": [
+     {
+      "source": "energea-home",
+      "quote": "link: Facebook -> https://www.facebook.com/goenergea/"
+     },
+     {
+      "source": "energea-home",
+      "quote": "link: Instagram -> https://www.instagram.com/energea_official/"
+     },
+     {
+      "source": "energea-home",
+      "quote": "link: TikTok -> https://www.tiktok.com/@energea_official"
+     },
+     {
+      "source": "energea-home",
+      "quote": "link: YouTube -> https://youtube.com/@goenergea?si=sgpxny7TPcoiSFfY"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "contact": {
+    "value": "info@globalsynergyconcepts.com.my (Malaysian distributor)",
+    "evidence": [
+     {
+      "source": "energea-wtb",
+      "quote": "Global Synergy Concepts Sdn Bhd ✉ info@globalsynergyconcepts.com.my ☎ +6011 5989 0370"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Edifier",
+   "kind": "brand",
+   "subcategory": "Audio",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "edifier-lowyat",
+      "quote": "The Edifier M90 is already available for purchase via the brand’s official page and authorised retailers."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "Edifier M90 | RM899",
+    "evidence": [
+     {
+      "source": "edifier-lowyat",
+      "quote": "While the speakers are currently being listed at RM899"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "JBL",
+   "kind": "brand",
+   "subcategory": "Audio",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "jbl-home",
+      "quote": "Buy Authentic"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "jbl-yahoo-mall",
+      "quote": "International brands are also present on TikTok Shop Mall, inclusive of well-loved favourites such as Maybelline , Pandora , Skechers and JBL ."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "jbl-home",
+      "quote": "link: (icon) -> https://www.facebook.com/JBLMalaysia/"
+     },
+     {
+      "source": "jbl-home",
+      "quote": "link: (icon) -> https://www.instagram.com/jbl_my/"
+     },
+     {
+      "source": "jbl-home",
+      "quote": "link: (icon) -> https://www.tiktok.com/@jblmalaysia"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Marshall",
+   "kind": "brand",
+   "subcategory": "Audio",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "marshall-home",
+      "quote": "10% off your first purchase at marshall.com, see exclusions here."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Sony",
+   "kind": "brand",
+   "subcategory": "Audio",
+   "presence": {
+    "value": "global brand with a Malaysian company",
+    "entity": "SONY MALAYSIA SDN. BHD.",
+    "evidence": [
+     {
+      "source": "sony-home",
+      "quote": "COPYRIGHT © 2026 SONY MALAYSIA SDN. BHD. COMPANY NO: 197301002698 (16202-H). ALL RIGHTS RESERVED."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada",
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "sony-home",
+      "quote": "link: Sony Store Shopee -> https://shopee.com.my/sonystoreonline.os"
+     },
+     {
+      "source": "sony-home",
+      "quote": "link: Sony Store Lazada -> https://www.lazada.com.my/shop/sony/?path=index.htm"
+     },
+     {
+      "source": "sony-home",
+      "quote": "link: Delivery Information -> https://store.sony.com.my/pages/faq#Delivery"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "sony-home",
+      "quote": "link: View on TikTok -> https://www.tiktok.com/@sony.malaysia"
+     },
+     {
+      "source": "sony-home",
+      "quote": "link: Visit us on Facebook -> http://www.facebook.com/SonyMalaysia"
+     },
+     {
+      "source": "sony-home",
+      "quote": "link: View on Instagram -> http://www.instagram.com/SonyMalaysia"
+     },
+     {
+      "source": "sony-home",
+      "quote": "link: Visit us on YouTube -> https://www.youtube.com/channel/UCaS7UdfYcxNPDXZ39_Tygeg"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Vinnfier",
+   "kind": "brand",
+   "subcategory": "Audio",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "Vinnpower Distribution Sdn Bhd",
+    "evidence": [
+     {
+      "source": "vinnfier-home",
+      "quote": "© 2026 Vinnfier. All Rights Reserved. Vinnfier Malaysia is operated by Vinnpower Distribution Sdn Bhd."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "vinnfier-home",
+      "quote": "link: Facebook link -> https://www.facebook.com/OfficialVinnfierMalaysia"
+     },
+     {
+      "source": "vinnfier-home",
+      "quote": "link: Instagram link -> https://www.instagram.com/vinnfiermy/"
+     },
+     {
+      "source": "vinnfier-home",
+      "quote": "link: Youtube link -> https://www.youtube.com/@VinnfierMalaysia"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Amazfit",
+   "kind": "brand",
+   "subcategory": "Wearables",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "amazfit-home",
+      "quote": "link: (icon) -> https://shop.amazfit.com.my/"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "amazfit-home",
+      "quote": "link: (icon) -> https://www.instagram.com/amazfitmalaysia"
+     },
+     {
+      "source": "amazfit-home",
+      "quote": "link: (icon) -> https://youtube.com/@amazfitmy?si=7OrsvGqZAZIjTWaq"
+     },
+     {
+      "source": "amazfit-home",
+      "quote": "link: (icon) -> https://www.tiktok.com/@amazfit.my"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "Amazfit Active 2 Round | RM 499.00",
+    "evidence": [
+     {
+      "source": "amazfit-shop",
+      "quote": "Amazfit Active 2 Round RM 499.00"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "HUAWEI",
+   "kind": "brand",
+   "subcategory": "Wearables",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "huawei-home",
+      "quote": "link: Checkout Now -> /my/shop/cart/"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "huawei-home",
+      "quote": "link: facebook -> https://www.facebook.com/pg/HuaweimobileMY/"
+     },
+     {
+      "source": "huawei-home",
+      "quote": "link: instagram -> https://www.instagram.com/huaweimobilemy/"
+     },
+     {
+      "source": "huawei-home",
+      "quote": "link: youtube -> https://www.youtube.com/channel/UCpNx2NVKY7j13vfs_Sfk1uQ?view_as=subscriber"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Garmin",
+   "kind": "brand",
+   "subcategory": "Wearables",
+   "presence": {
+    "value": "global brand with a Malaysian company",
+    "entity": "Garmin Malaysia Sdn. Bhd.",
+    "evidence": [
+     {
+      "source": "garmin-home",
+      "quote": "Garmin Malaysia Sdn. Bhd. 202201031343 (1477040-H)"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "garmin-home",
+      "quote": "link: 0 Total items in cart: 0 -> https://buy.garmin.com.my/webstore/shoppingCart/"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "garmin-home",
+      "quote": "link: (icon) -> https://www.facebook.com/GarminMalaysia/?fref=ts"
+     },
+     {
+      "source": "garmin-home",
+      "quote": "link: (icon) -> https://www.youtube.com/GarminMalaysiaAsia"
+     },
+     {
+      "source": "garmin-home",
+      "quote": "link: (icon) -> https://www.instagram.com/garminmalaysia/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Insta360",
+   "kind": "brand",
+   "subcategory": "Cameras & drones",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "own e-store",
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "insta360-lowyat",
+      "quote": "link: web store -> https://store.insta360.com/my/"
+     },
+     {
+      "source": "insta360-lowyat",
+      "quote": "link: Shopee -> https://shopee.com.my/insta360.os"
+     },
+     {
+      "source": "insta360-lowyat",
+      "quote": "link: Lazada -> https://www.lazada.com.my/shop/insta360-official-store/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "Insta360 Luna Ultra | RM2,999",
+    "evidence": [
+     {
+      "source": "insta360-lowyat",
+      "quote": "The camera is priced at RM2,999 in Malaysia"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "DJI",
+   "kind": "brand",
+   "subcategory": "Cameras & drones",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada",
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "dji-online",
+      "quote": "link: Shopee -> https://shopee.com.my/djimalaysia"
+     },
+     {
+      "source": "dji-online",
+      "quote": "link: Lazada -> https://www.lazada.com.my/shop/dji1632734422"
+     },
+     {
+      "source": "dji-online",
+      "quote": "link: Store -> https://store.dji.com/my?site=brandsite&from=nav"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "dji-online",
+      "quote": "link: Tiktok -> https://vt.tiktok.com/ZSCT5Q74g/?page=TikTokShop"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "global only",
+    "evidence": [
+     {
+      "source": "dji-online",
+      "quote": "link: social-Youtube -> https://www.youtube.com/user/djiinnovations"
+     },
+     {
+      "source": "dji-online",
+      "quote": "link: social-Instagram -> https://www.instagram.com/DJIglobal/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "70mai",
+   "kind": "brand",
+   "subcategory": "Cameras & drones",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "jbl-ringgitplus-mall",
+      "quote": "E-commerce platform TikTok Shop has launched its very own TikTok Shop Mall, an exclusive channel that only features the flagship stores and authorised online retail outlets of specially invited brands."
+     },
+     {
+      "source": "jbl-ringgitplus-mall",
+      "quote": "According to TikTok, this new feature will provide Malaysian shoppers with access to a curated selection of over 600 local and international brands, with some notable ones being Mydin, Habib Jewels, Pandora, Skechers, and 70mai."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "70mai-home",
+      "quote": "link: Facebook -> https://www.facebook.com/70maiMalaysia/"
+     },
+     {
+      "source": "70mai-home",
+      "quote": "link: Instagram -> https://www.instagram.com/70maimalaysia/"
+     },
+     {
+      "source": "70mai-home",
+      "quote": "link: TikTok -> https://www.tiktok.com/@70maimy?lang=en"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "official branches across Malaysia",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "70mai-home",
+      "quote": "Visit any of our official branches across Malaysia for a clean, factory-finish setup."
+     }
+    ]
+   }
+  },
+  {
+   "brand": "TP-Link",
+   "kind": "brand",
+   "subcategory": "Smart home & networking",
+   "aliases": [
+    "Tapo"
+   ],
+   "presence": {
+    "value": "global brand with a Malaysian company",
+    "entity": "TP-Link Distribution Malaysia Sdn Bhd",
+    "evidence": [
+     {
+      "source": "tplink-home",
+      "quote": "Copyright © 2026 TP-Link Distribution Malaysia Sdn Bhd - 201301020258 (1050088K). All rights reserved."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "tplink-wtb",
+      "quote": "link: (icon) -> https://shopee.com.my/tplinkmy.os"
+     },
+     {
+      "source": "tplink-wtb",
+      "quote": "link: (icon) -> https://www.lazada.com.my/shop/tp-link"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "tplink-wtb",
+      "quote": "link: (icon) -> https://vt.tiktok.com/ZS2aSavJK/?page=TikTokShop"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "tplink-home",
+      "quote": "link: TP-Link facebook -> https://www.facebook.com/pages/TP-LINK_Malaysia/753221194724379?ref=hl"
+     },
+     {
+      "source": "tplink-home",
+      "quote": "link: TP-Link youtube -> https://www.youtube.com/channel/UCfGVyw-RcAb4kDawCkh6c8Q"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "TP-Link Flagship Store at Mid Valley Megamall",
+    "level": "",
+    "evidence": [
+     {
+      "source": "tplink-wtb",
+      "quote": "TP-Link Flagship Store - Mid Valley Megamall"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "EZVIZ",
+   "kind": "brand",
+   "subcategory": "Smart home & networking",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Lazada",
+     "Shopee"
+    ],
+    "evidence": [
+     {
+      "source": "ezviz-wtb",
+      "quote": "Lazada - EZVIZ Official Store"
+     },
+     {
+      "source": "ezviz-wtb",
+      "quote": "Shopee - EZVIZ Official Store"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "ezviz-home",
+      "quote": "link: Facebook -> https://www.facebook.com/EZVIZMalaysiaHQ/"
+     },
+     {
+      "source": "ezviz-home",
+      "quote": "link: Instagram -> https://www.instagram.com/ezviz_malaysia_hq/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "EZVIZ C8W outdoor CCTV | RM449",
+    "evidence": [
+     {
+      "source": "ezviz-home",
+      "quote": "The new EZVIZ C8W outdoor CCTV runs at 2K+30FPS 360° at just RM449"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Aqara",
+   "kind": "brand",
+   "subcategory": "Smart home & networking",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "Hello Smart Sdn Bhd",
+    "evidence": [
+     {
+      "source": "aqara-star",
+      "quote": "KUALA LUMPUR: Chinese smart home products provider Aqara announced its official launch in Malaysia today in partnership with Hello Smart Sdn Bhd as its authorised distributor and service partner in Malaysia."
+     }
+    ]
+   },
+   "origin": {
+    "value": "Chinese",
+    "evidence": [
+     {
+      "source": "aqara-star",
+      "quote": "KUALA LUMPUR: Chinese smart home products provider Aqara announced its official launch in Malaysia today in partnership with Hello Smart Sdn Bhd as its authorised distributor and service partner in Malaysia."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Logitech",
+   "kind": "brand",
+   "subcategory": "Computer & gaming accessories",
+   "presence": {
+    "value": "not found in public sources",
+    "evidence": []
+   },
+   "stores": {
+    "value": [
+     "Shopee",
+     "Lazada"
+    ],
+    "evidence": [
+     {
+      "source": "logitech-lowyat",
+      "quote": "link: Shopee -> https://shopee.com.my/logitechg.os"
+     },
+     {
+      "source": "logitech-lowyat",
+      "quote": "link: Lazada -> https://www.lazada.com.my/shop/logitech-g/?path=index.htm"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Instagram",
+     "Facebook"
+    ],
+    "scope": "global only",
+    "evidence": [
+     {
+      "source": "logitech-home",
+      "quote": "link: instagram-test -> http://instagram.com/logitech?ref=badge"
+     },
+     {
+      "source": "logitech-home",
+      "quote": "link: facebook -> http://www.facebook.com/Logitech"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "price": {
+    "value": "Logitech G321 Lightspeed | RM269",
+    "evidence": [
+     {
+      "source": "logitech-lowyat",
+      "quote": "The G321 Lightspeed is priced at RM269 ."
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Khind",
+   "kind": "brand",
+   "subcategory": "Home appliances",
+   "presence": {
+    "value": "Malaysian brand",
+    "evidence": [
+     {
+      "source": "khind-ar2025",
+      "quote": "Today, KHIND has become a successful Malaysian brand well-known in the international scene"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "Lazada",
+     "Shopee",
+     "PG Mall",
+     "Zalora"
+    ],
+    "evidence": [
+     {
+      "source": "khind-ar2025",
+      "quote": "as well as on reputable third-party e-commerce platforms, i.e., Lazada, Shopee, Pgmall, and Zalora, in order to"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "khind-ar2025",
+      "quote": "The Group maintains a strong presence on popular social media platforms, namely Facebook and TikTok Shop,"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "khind-home",
+      "quote": "link: Facebook -> https://www.facebook.com/khind.my/"
+     },
+     {
+      "source": "khind-home",
+      "quote": "link: YouTube -> https://www.youtube.com/channel/UC0t8OmkDPKkyxETHvqqpSgA"
+     },
+     {
+      "source": "khind-home",
+      "quote": "link: Instagram -> https://www.instagram.com/khindmalaysia/"
+     }
+    ]
+   },
+   "certification": {
+    "value": "certification stated",
+    "detail": "most products regulated by the Energy Commission and SIRIM-certified before sale (annual report)",
+    "evidence": [
+     {
+      "source": "khind-ar2025",
+      "quote": "Malaysian Energy Commission and must obtain SIRIM certification prior to sale."
+     }
+    ]
+   },
+   "sells_well": {
+    "value": "e-commerce made 4.2% of group revenue in 2025; direct-to-consumer sales rose from RM27.2 million in 2024 to RM49.3 million (annual report)",
+    "level": "filing-or-award",
+    "evidence": [
+     {
+      "source": "khind-ar2025",
+      "quote": "In 2025, the Group’s revenue from its e-commerce platforms constituted 4.2% of total revenue, remained fairly"
+     },
+     {
+      "source": "khind-ar2025",
+      "quote": "were up from RM27.2 million in 2024 to RM49.3 million for the year under review as we continue to grow the RTO"
+     }
+    ]
+   },
+   "contact": {
+    "value": "khindonline@khind.com; enquiry form on khind.com.my/pages/contact",
+    "evidence": [
+     {
+      "source": "khind-ar2025",
+      "quote": "Email: khindonline@khind.com"
+     },
+     {
+      "source": "khind-contact",
+      "quote": "Send Us An Enquiry"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Pensonic",
+   "kind": "brand",
+   "subcategory": "Home appliances",
+   "presence": {
+    "value": "Malaysian brand",
+    "entity": "Pensonic Holdings Bhd",
+    "evidence": [
+     {
+      "source": "pensonic-bernama",
+      "quote": "a leading Malaysian manufacturer and distributor of household electrical appliances"
+     },
+     {
+      "source": "pensonic-star",
+      "quote": "Homegrown appliance maker Pensonic Holdings Bhd"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "pensonic-home",
+      "quote": "link: (icon) -> https://www.facebook.com/pensonicmalaysia/"
+     },
+     {
+      "source": "pensonic-home",
+      "quote": "link: (icon) -> https://www.instagram.com/pensonicmalaysia/"
+     },
+     {
+      "source": "pensonic-home",
+      "quote": "link: (icon) -> https://www.youtube.com/@pensonicmal"
+     },
+     {
+      "source": "pensonic-home",
+      "quote": "link: (icon) -> https://www.tiktok.com/@pensonicmalaysia"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "contact": {
+    "value": "customerservice@pensonic.com; 1-800-881-770",
+    "evidence": [
+     {
+      "source": "pensonic-contact",
+      "quote": "customerservice@pensonic.com"
+     },
+     {
+      "source": "pensonic-contact",
+      "quote": "1-800-881-770"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Faber",
+   "kind": "brand",
+   "subcategory": "Home appliances",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "Fiamma",
+    "evidence": [
+     {
+      "source": "elba-fiamma-bernama",
+      "quote": "Fiamma owns and distributes brands including ELBA, RUBINE, FABER, TUSCANI and HAUSTERN."
+     },
+     {
+      "source": "faber-home",
+      "quote": "For over 30 years, Faber has been a household name in Malaysia"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "Lazada",
+     "Shopee"
+    ],
+    "evidence": [
+     {
+      "source": "faber-bernama",
+      "quote": "link: https://www.lazada.com.my/shop/faber-appliances-store -> https://www.lazada.com.my/shop/faber-appliances-store"
+     },
+     {
+      "source": "faber-bernama",
+      "quote": "link: https://shopee.com.my/faber.os -> https://shopee.com.my/faber.os"
+     }
+    ]
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "faber-bernama",
+      "quote": "· Tik Tik Shop: https://www.tiktok.com/@faber.os"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "faber-home",
+      "quote": "link: (icon) -> https://www.facebook.com/FaberAppliances/"
+     },
+     {
+      "source": "faber-home",
+      "quote": "link: (icon) -> https://www.instagram.com/fabermalaysia/"
+     },
+     {
+      "source": "faber-home",
+      "quote": "link: (icon) -> https://www.tiktok.com/@faber.os"
+     }
+    ]
+   },
+   "certification": {
+    "value": "certification stated",
+    "detail": "SIRIM-certified, stated on its own site",
+    "evidence": [
+     {
+      "source": "faber-home",
+      "quote": "With SIRIM-certified reliability, we don’t just promise performance—we deliver it."
+     }
+    ]
+   }
+  },
+  {
+   "brand": "ELBA",
+   "kind": "brand",
+   "subcategory": "Home appliances",
+   "presence": {
+    "value": "sold through a named Malaysian distributor",
+    "entity": "Fiamma",
+    "evidence": [
+     {
+      "source": "elba-fiamma-bernama",
+      "quote": "Fiamma owns and distributes brands including ELBA, RUBINE, FABER, TUSCANI and HAUSTERN."
+     },
+     {
+      "source": "elba-bernama",
+      "quote": "With over 40 years of presence in Malaysia, ELBA continues to be a trusted brand for stylish, energy-efficient, and reliable appliances that simplify everyday life."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   }
+  },
+  {
+   "brand": "Milux",
+   "kind": "brand",
+   "subcategory": "Home appliances",
+   "presence": {
+    "value": "Malaysian brand",
+    "entity": "Milux Sales & Service Sdn Bhd",
+    "evidence": [
+     {
+      "source": "milux-home",
+      "quote": "Milux Sales & Service Sdn Bhd 302263-x"
+     },
+     {
+      "source": "milux-home",
+      "quote": "We are one of Malaysia’s most trusted brands because of our dedication to product quality and customer service."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "milux-stores",
+      "quote": "Shop Now"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Instagram",
+     "Facebook",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "milux-home",
+      "quote": "link: (icon) -> https://www.instagram.com/miluxmalaysia/"
+     },
+     {
+      "source": "milux-home",
+      "quote": "link: Facebook -> https://www.facebook.com/milux.my/"
+     },
+     {
+      "source": "milux-home",
+      "quote": "link: Subscribe Us YouTube -> https://www.youtube.com/channel/UCU_mv2QKbp9GPPa6soAct0Q"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "contact": {
+    "value": "customercare@milux.com.my",
+    "evidence": [
+     {
+      "source": "milux-home",
+      "quote": "customercare@milux.com.my"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Senheng",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "entity": "Senheng Electric (KL) Sdn Bhd",
+    "evidence": [
+     {
+      "source": "senheng-corp",
+      "quote": "Senheng Electric (KL) Sdn Bhd"
+     },
+     {
+      "source": "senheng-pr",
+      "quote": "one of Malaysia's largest consumer electronics retailers"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "other"
+    ],
+    "evidence": [
+     {
+      "source": "senheng-pr",
+      "quote": "Founded in 1989, the Group has grown its retail network to over 100 physical stores across Peninsular and East Malaysia, and is supported by various online retail platforms."
+     }
+    ],
+    "labels": {
+     "other": "various online retail platforms"
+    }
+   },
+   "content_shop": {
+    "value": true,
+    "evidence": [
+     {
+      "source": "says-tiktokshop-allstar-live-mall-2026",
+      "quote": "Among those in attendance were Senheng, PerySmith, Ceecile Women Sportswear, and Panda Eyes, highlighting the success of brands thriving under TikTok Shop's authenticity-guaranteed Mall programme ."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "senheng-home",
+      "quote": "link: (icon) -> https://www.facebook.com/SenhengMY/"
+     },
+     {
+      "source": "senheng-home",
+      "quote": "link: (icon) -> https://www.instagram.com/senhengmy/"
+     },
+     {
+      "source": "senheng-home",
+      "quote": "link: (icon) -> https://www.tiktok.com/@senhengmy"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "over 100 physical stores across Peninsular and East Malaysia",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "senheng-pr",
+      "quote": "Founded in 1989, the Group has grown its retail network to over 100 physical stores across Peninsular and East Malaysia, and is supported by various online retail platforms."
+     }
+    ]
+   },
+   "contact": {
+    "value": "ccc@senheng.com.my",
+    "evidence": [
+     {
+      "source": "senheng-home",
+      "quote": "Email ccc@senheng.com.my"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "SNS Network",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "evidence": [
+     {
+      "source": "sns-star",
+      "quote": "In a filing with Bursa Malaysia on its latest financial performance, the company expects the ICT products and services industry to maintain robust growth"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "sns-home",
+      "quote": "link: (icon) -> https://www.facebook.com/sns.com.my/"
+     },
+     {
+      "source": "sns-home",
+      "quote": "link: (icon) -> https://www.instagram.com/snsnetwork_my/?hl=en"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "contact": {
+    "value": "online@sns.com.my",
+    "evidence": [
+     {
+      "source": "sns-home",
+      "quote": "Click one of our representatives below to chat on WhatsApp or send us an email to online@sns.com.my"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "VSTECS",
+   "kind": "distributor",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "entity": "VSTECS BERHAD",
+    "evidence": [
+     {
+      "source": "vstecs-home",
+      "quote": "VSTECS BERHAD (Registration No: 199501021835) (351038-H) © Copyright All rights reserved."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "other"
+    ],
+    "evidence": [
+     {
+      "source": "vstecs-ar2024",
+      "quote": "– Official online brand stores for"
+     }
+    ],
+    "labels": {
+     "other": "official online brand stores it runs for its brand principals"
+    }
+   },
+   "accounts": {
+    "short_video": false,
+    "others": [
+     "Facebook"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "vstecs-home",
+      "quote": "link: Facebook-f -> https://www.facebook.com/vstecsmy"
+     }
+    ]
+   },
+   "certification": {
+    "value": "certification stated",
+    "detail": "checks that brands it takes on are certified by SIRIM and MCMC (annual report)",
+    "evidence": [
+     {
+      "source": "vstecs-ar2024",
+      "quote": "(i.e. SIRIM, MCMC);"
+     }
+    ]
+   },
+   "sells_well": {
+    "value": "a network of over 4,000 partners",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "vstecs-ar2024",
+      "quote": "of over 4,000 partners, comprising"
+     }
+    ]
+   },
+   "contact": {
+    "value": "enquiry@vstecs.com.my",
+    "evidence": [
+     {
+      "source": "vstecs-home",
+      "quote": "Email enquiry@vstecs.com.my"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "All IT Hypermarket",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "aliases": [
+    "ALL IT"
+   ],
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "evidence": [
+     {
+      "source": "allit-stores",
+      "quote": "Lot 2-62, 2nd Floor, iOi City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia."
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "allit-home",
+      "quote": "I rely on the ALL IT online store for all my computer accessory needs, and they have never disappointed me."
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "allit-home",
+      "quote": "link: Follow on Facebook -> https://www.facebook.com/allithypermarket/"
+     },
+     {
+      "source": "allit-home",
+      "quote": "link: Follow on Instagram -> https://www.instagram.com/allithypermarket/?hl=en"
+     },
+     {
+      "source": "allit-home",
+      "quote": "link: Follow on YouTube -> https://www.youtube.com/@allithypermarketsb"
+     },
+     {
+      "source": "allit-home",
+      "quote": "link: Follow on Tiktok -> https://www.tiktok.com/@allithypermarket"
+     },
+     {
+      "source": "allit-stores",
+      "quote": "ONLINE@ALLIT.COM.MY"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "contact": {
+    "value": "info@allit.com.my",
+    "evidence": [
+     {
+      "source": "allit-stores",
+      "quote": "info@allit.com.my"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Machines",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "evidence": [
+     {
+      "source": "machines-home",
+      "quote": "Machines - Malaysia's Largest Apple Premium Reseller Store"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "machines-home",
+      "quote": "Buy online, pick up in store"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "Instagram",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "machines-home",
+      "quote": "link: Facebook -> https://www.facebook.com/machinesapr"
+     },
+     {
+      "source": "machines-home",
+      "quote": "link: Instagram -> https://www.instagram.com/machinesmy/"
+     },
+     {
+      "source": "machines-home",
+      "quote": "link: TikTok -> https://www.tiktok.com/@machinesapr"
+     },
+     {
+      "source": "machines-home",
+      "quote": "link: YouTube -> https://www.youtube.com/@machinesmy9401"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "more than 50 stores nationwide (2022)",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "machines-pr",
+      "quote": "machines is the largest Apple Premium Reseller (APR) in Malaysia, with more than 50 stores nationwide and growing."
+     }
+    ]
+   },
+   "contact": {
+    "value": "machines.com.my/pages/contact-us (Small Medium Business and Corporate enquiries)",
+    "evidence": [
+     {
+      "source": "machines-contact",
+      "quote": "Small Medium Business"
+     },
+     {
+      "source": "machines-contact",
+      "quote": "Corporate"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "COURTS",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "entity": "COURTS(MALAYSIA) SDN.BHD.",
+    "evidence": [
+     {
+      "source": "courts-home",
+      "quote": "© 2026 COURTS(MALAYSIA) SDN.BHD.(Co No. 198601005660) (154820-D) ALL RIGHTS RESERVED"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "courts-home",
+      "quote": "Free Delivery on Purchases Over RM 500 | Excludes East Malaysia, East Coast & Outskirt Areas"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Instagram",
+     "Facebook",
+     "YouTube"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "courts-home",
+      "quote": "link: instagram -> https://www.instagram.com/courtsmsia/"
+     },
+     {
+      "source": "courts-home",
+      "quote": "link: facebook -> https://www.facebook.com/CourtsMsia/"
+     },
+     {
+      "source": "courts-home",
+      "quote": "link: tiktok -> https://www.tiktok.com/@courtsmalaysia"
+     },
+     {
+      "source": "courts-home",
+      "quote": "link: youtube -> https://www.youtube.com/@CourtsMalaysiaOfficial"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "contact": {
+    "value": "courts.com.my/contact-us (Corporate Sales)",
+    "evidence": [
+     {
+      "source": "courts-home",
+      "quote": "Corporate Sales"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Harvey Norman",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "evidence": [
+     {
+      "source": "harveynorman-star",
+      "quote": "International household retailer Harvey Norman has reached a new milestone with the opening of its 40th store in the country, and its first in Kulai."
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "opened its 40th store in the country",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "harveynorman-star",
+      "quote": "International household retailer Harvey Norman has reached a new milestone with the opening of its 40th store in the country, and its first in Kulai."
+     }
+    ]
+   }
+  },
+  {
+   "brand": "CompAsia",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "evidence": [
+     {
+      "source": "compasia-star",
+      "quote": "CompAsia is currently a leading refurbished technology player in Malaysia"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "compasia-home",
+      "quote": "Welcome to CompAsia Malaysia’s Online Store. The place for trusted tech and unbeatable value!"
+     }
+    ]
+   },
+   "accounts": {
+    "short_video": true,
+    "others": [
+     "Facebook",
+     "YouTube",
+     "Instagram"
+    ],
+    "scope": "Malaysia-specific",
+    "evidence": [
+     {
+      "source": "compasia-home",
+      "quote": "link: Facebook -> https://www.facebook.com/CompAsiaMY"
+     },
+     {
+      "source": "compasia-home",
+      "quote": "link: YouTube -> https://www.youtube.com/@compasiamy"
+     },
+     {
+      "source": "compasia-home",
+      "quote": "link: Instagram -> https://www.instagram.com/compasiamy/"
+     },
+     {
+      "source": "compasia-home",
+      "quote": "link: TikTok -> https://www.tiktok.com/@compasiamy"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "around 70 stores across the country, including Sabah and Sarawak",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "compasia-star",
+      "quote": "we have since expanded to around 70 stores across the country, including in Sabah and Sarawak."
+     }
+    ]
+   },
+   "contact": {
+    "value": "support@compasia.com; Corporate Sales page",
+    "evidence": [
+     {
+      "source": "compasia-home",
+      "quote": "1 . Email: support@compasia.com"
+     },
+     {
+      "source": "compasia-home",
+      "quote": "Corporate Sales"
+     }
+    ]
+   }
+  },
+  {
+   "brand": "Thunder Match Technology",
+   "kind": "retailer",
+   "subcategory": "Multi-category retail",
+   "aliases": [
+    "TMT"
+   ],
+   "presence": {
+    "value": "Malaysian distributor or retailer",
+    "evidence": [
+     {
+      "source": "tmt-lowyat",
+      "quote": "Thunder Match Technology (TMT) has been appointed as an authorised retailer for Starlink"
+     }
+    ]
+   },
+   "stores": {
+    "value": [
+     "own e-store"
+    ],
+    "evidence": [
+     {
+      "source": "tmt-lowyat",
+      "quote": "TMT currently offers the V4 of the Starlink Standard Kit on its online store for RM1,600"
+     }
+    ]
+   },
+   "certification": {
+    "value": "not found in public sources"
+   },
+   "sells_well": {
+    "value": "a network of 48 physical outlets across the country",
+    "level": "retail-network",
+    "evidence": [
+     {
+      "source": "tmt-lowyat",
+      "quote": "by leveraging its network of 48 physical outlets across the country, as well as its online presence."
+     }
+    ]
+   }
+  }
+ ]
+}

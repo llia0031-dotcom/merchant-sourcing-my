@@ -1,0 +1,6 @@
+metric,comparison,value,note
+on_time_ship_rate,min,0.95,example threshold
+cancellation_rate,max,0.05,example threshold
+refund_rate,max,0.05,example threshold
+chat_response_rate,min,0.8,example threshold
+conversion_rate,min,0.01,example threshold

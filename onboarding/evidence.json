@@ -1,0 +1,484 @@
+{
+ "R01": [
+  {
+   "source": "st-electricity-regs-1994",
+   "quote": "(1) Subject to regulations 97C, 97D, 97E and 101A, no person shall manufacture, import, display, sell or advertise— (a) any domestic equipment; (b) any low voltage equipment which is usually sold directly to the general public; or"
+  },
+  {
+   "source": "st-ecommerce-briefing",
+   "quote": "Reg 97 (1) - Certificate of Approval (CoA) is required to manufacture, import, display, sell or advertise of electrical equipment"
+  }
+ ],
+ "R02": [
+  {
+   "source": "st-regulated-list-p13",
+   "quote": "Portable Battery Charger (up to 24 V) ADAPTER / CHARGER (a) A.C - D.C Chargers"
+  },
+  {
+   "source": "st-regulated-list-p13",
+   "quote": "for charging batteries other than those of the automotive type; for charging one or more batteries for use in other equipment; for charging battery for use in mobile phone, PDA or similar equipment; imported or manufactured separately (detachable)"
+  },
+  {
+   "source": "st-regulated-list-p14",
+   "quote": "Charger for IT Equipment (up to 20V)"
+  },
+  {
+   "source": "st-regulated-list-p13",
+   "quote": "Portable power station or similar equipment"
+  },
+  {
+   "source": "st-regulated-list-p13",
+   "quote": "Switching mode power supply"
+  }
+ ],
+ "R03": [
+  {
+   "source": "st-regulated-list",
+   "quote": "Adaptor (Multiways, T-Adaptor) PLUG TOP/PLUG (c) Adaptor extends supply from a socket-outlet; incorporates one or more integral socket-outlets; and has insulating sleeves on the line and neutral plug pins"
+  },
+  {
+   "source": "st-regulated-list",
+   "quote": "Travel/Universal Adaptor extends supply from a socket-outlet; incorporates one or more integral socket-outlets"
+  },
+  {
+   "source": "st-regulated-list-p3",
+   "quote": "Portable cable reel SOCKET OUTLET (b) Portable"
+  }
+ ],
+ "R04": [
+  {
+   "source": "st-regulated-list-p5",
+   "quote": "Self-ballasted single capped LED-lamps for general lighting services by voltage > 50V"
+  },
+  {
+   "source": "st-regulated-list-p10",
+   "quote": "Auto/Oscillating Fan, Wall Fan, Ceiling Fan & Applies to their Separate Regulators and with Blade/ Bladeless; Pedestal Fan, Table Fan, Moving-louver Fan/Box Fan"
+  },
+  {
+   "source": "st-regulated-list-p8",
+   "quote": "Rice Cooker RICE COOKER used for cooking rice or similar food"
+  },
+  {
+   "source": "st-regulated-list-p8",
+   "quote": "Portable type: Bread Maker; Bread Toaster; Portable Oven; Induction Cooker; Grill; Sandwich Maker; Waffle Maker; Roaster; Barbeque; Pop-corn maker or Air Fryer"
+  },
+  {
+   "source": "st-regulated-list-p7",
+   "quote": "KETTLE including HEATING ELEMENTS IF SUPPLIED SEPARATELY"
+  },
+  {
+   "source": "st-regulated-list-p11",
+   "quote": "electronic appliances and equipments such a LCD; LED; Plasma; CRT; Display Monitor; Internal Antenna or Booster; and similar to it VIDEO and VISUAL DISPLAY UNIT"
+  }
+ ],
+ "R05": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "4.1 LIST OF REGULATED ELECTRICAL EQUIPMENT THAT ARE TO BE TESTED TO THE SPECIFIED MINIMUM ENERGY PERFORMANCE STANDARDS (MEPS)"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "3 Television Television size up to or equal to 70 inches"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "4 Domestic Fan (a) Wall Fan (10inch - 16inch)"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "(d) Self-ballasted Light Emitting Diode (LED) Lamps"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "8 Rice Cooker"
+  }
+ ],
+ "R06": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "TSR 2000 requires all Communications Equipment to be certified in accordance with the specified standards, to ensure its safety, interoperability and the prevention of radio frequency interference."
+  },
+  {
+   "source": "mcmc-cyl-howto",
+   "quote": "Computer Facsimile Mobile Phone Satellite TV Smart TV Tablet Walkie Talkie Wireless Device Wireless Router"
+  }
+ ],
+ "R07": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Personal computer including laptop, notebook, tablet, desktop & accessories (e.g.: wireless keyboard, wireless mouse, USB dongle)"
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Wireless charger"
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Television (Smart TV / Digital TV)"
+  }
+ ],
+ "R08": [
+  {
+   "source": "st-ecommerce-briefing",
+   "quote": "Thus, the hybrid product need to get the approval from 2 (two) authorities."
+  }
+ ],
+ "R09": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "Regulated Accessories incorporated with main products (eg. accessories such as lamp, usb adaptor/charger, etc) shall meet the requirement of related accessories standards."
+  }
+ ],
+ "R10": [
+  {
+   "source": "ssm-roba-s5",
+   "quote": "(1) The person responsible for a business shall, not later than thirty days from the date of the commencement of the business, apply to the Registrar for the registration of the business."
+  },
+  {
+   "source": "ssm-new-business-guideline",
+   "quote": "Business Registration Certificate can be obtained within one (1) hour from the payment transaction is made."
+  }
+ ],
+ "R11": [
+  {
+   "source": "ssm-new-business-guideline",
+   "quote": "Sole proprietorship or partnership using trade name - RM60.00"
+  },
+  {
+   "source": "ssm-new-business-guideline",
+   "quote": "Owner or partners must be a Malaysian Citizen or Permanent Resident of Malaysia."
+  }
+ ],
+ "R12": [
+  {
+   "source": "ssm-new-business-guideline",
+   "quote": "Even though businesses have been registered with SSM, business owners are responsible to obtain licenses, permits or approval letters from other relevant authorities in order to operate their businesses."
+  }
+ ],
+ "R13": [
+  {
+   "source": "st-faq-company-requirements",
+   "quote": "The company must be registered with the Companies Commission of Malaysia (SSM) and must have a suitable premises for the purpose of storage, distribution, or manufacturing of electrical equipment."
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "An importer shall be a Malaysian company registered with the Companies Commission of Malaysia."
+  }
+ ],
+ "R14": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "However, under SIRIM’s certification program, compliance approval is granted only to local companies registered in Malaysia to ensure regulatory compliance and facilitate enforcement actions in cases of non-compliance."
+  },
+  {
+   "source": "sirimqas-compliance-approval-requirements",
+   "quote": "The Applicant shall be a registered company in Malaysia with a valid registration number under Registration of Company (ROC) or Registration of Business (ROB) of Companies Commission of Malaysia (SSM)"
+  }
+ ],
+ "R15": [
+  {
+   "source": "st-cor",
+   "quote": "Applicants who require applying for Certificate of Approval (CoA) shall register as registered manufacturer/ importer with the Energy Commission."
+  },
+  {
+   "source": "st-cor",
+   "quote": "Registration can be made through e-DIK system http://edik.st.gov.my ."
+  }
+ ],
+ "R16": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "(i) SSM Business Profile for Business Registration with Companies Commission of Malaysia under the Registration of Businesses Act 1956 [Act 197];"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "(b) Warehouse Tenancy Agreement for rented premise. (c) Business License from Local Authority (i.e. Dewan Bandaraya Kuala Lumpur). (d) Photo of the premise showing the business signboard."
+  },
+  {
+   "source": "st-cor",
+   "quote": "No Fee Imposed"
+  }
+ ],
+ "R17": [
+  {
+   "source": "st-cor",
+   "quote": "A CoR shall be valid for not less than 1 year and not exceeding 5 years from the date of issue or renewal."
+  }
+ ],
+ "R18": [
+  {
+   "source": "st-coa-how-apply",
+   "quote": "Register for an e-Permit by contacting Dagang Net Technologies Sdn. Bhd. (DNT) at 1-300-133-133 or via email at careline@dagangnet.com to obtain a user ID and password."
+  },
+  {
+   "source": "st-coa",
+   "quote": "All applications are submitted online via the e-Permit system, and applicants must hold a valid Certificate of Registration (CoR) prior to applying."
+  }
+ ],
+ "R19": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "(a) The Type Test Report validity period shall not exceed five years from the date of report and shall not be less than twelve months from the date of CoA application;"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "(b) List of components; (c) Instruction manual; (d) Technical specification and catalogue; and (e) Sample of the product, if requested."
+  }
+ ],
+ "R20": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "(9) Applicant shall pay RM30.00 as processing fee."
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "An annual fee of RM220.00 for single phase and RM330.00 for three phase shall be paid upon approval of the CoA"
+  }
+ ],
+ "R21": [
+  {
+   "source": "st-faq-coa-processing-time",
+   "quote": "If the submitted documents are complete, the processing time for a New Certificate of Approval application is five (5) working days, whereas for a Renewal Certificate of Approval application, it is one (1) working day."
+  }
+ ],
+ "R22": [
+  {
+   "source": "st-ensure-approved",
+   "quote": "Imported equipment with a Certificate of Approval must undergo consignment testing at SIRIM."
+  },
+  {
+   "source": "st-ensure-approved",
+   "quote": "Manufactured equipment must obtain a Product Certification Licence from SIRIM."
+  }
+ ],
+ "R23": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "Importer who has passed Consignment Test shall purchase ST-SIRIM label and shall affix the label on each of equipment."
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "The ST-SIRIM label or SIRIM Certification Mark shall be affixed on the regulated electrical equipment itself in a legible manner. The ST-SIRIM label shall not be affixed on the packaging."
+  }
+ ],
+ "R24": [
+  {
+   "source": "sirimqas-new-st-label-qr",
+   "quote": "Since 10 February 2022, SIRIM QAS International has started to issue new SIRIM-ST labels with QR code for all regulated electrical and gas products under the Energy Commission (Suruhanjaya Tenaga or ST)."
+  }
+ ],
+ "R25": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "Renewal of CoA shall be made not less than 14 days before its expiry date in accordance with regulation 106 of the Regulations."
+  }
+ ],
+ "R26": [
+  {
+   "source": "st-electricity-regs-1994",
+   "quote": "(3) Any equipment that meets all the requirements of efficient use of electricity under subregulation (1) shall be affixed with an efficiency rating label in such form and manner as may be determined by the Commission."
+  }
+ ],
+ "R27": [
+  {
+   "source": "sirimqas-compliance-approval-requirements",
+   "quote": "5.2. To apply for Compliance Approval, the Applicant shall complete the following process in e-ComM: 5.2.1. Laboratory registration; 5.2.2. Test report registration; 5.2.3. Trademark / brand declaration; and 5.2.4. Compliance Approval submission."
+  },
+  {
+   "source": "sirimqas-compliance-approval-requirements",
+   "quote": "All submitted documents shall be either in Bahasa Malaysia or English"
+  }
+ ],
+ "R28": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "The MCMC label can be in the form of physical label such as sticker, embossed or engraved or in the form of digital or e-label whereby the MCMC label is stored within the operating system of the Communications Equipment"
+  }
+ ],
+ "R29": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Communications Equipment is listed under the Customs (Prohibition of Imports) Order (“Prohibition of Imports Order”), which requires the importation of such Communications Equipment to be accompanied by a certificate of approval issued by SIRIM."
+  },
+  {
+   "source": "sirimqas-compliance-approval-requirements",
+   "quote": "17.2.3.1. For one model per application per shipment; 17.2.3.2. Valid for three (3) months from the date of approval; and"
+  }
+ ],
+ "R30": [
+  {
+   "source": "sirimqas-compliance-approval-requirements",
+   "quote": "12.4. The fee for renewal application is RM50 for one (1) year."
+  },
+  {
+   "source": "sirimqas-compliance-approval-requirements",
+   "quote": "14.2.10. The fee for renewal application is RM100 for one (1) year."
+  }
+ ],
+ "R31": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Provide clear evidence of the certification status in the product description section on the online shopping platform."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "(2) Copy of Certificate of Conformity (“CoC”): Upload or display a copy of the official certificate i.e. the CoC issued by SIRIM that proves the Communications Equipment has met the required standards under TSR 2000."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Ensure that all details of the Communications Equipment provided are correct and accurate. This includes the model number, brand, and a clear description of the Communications Equipment."
+  }
+ ],
+ "R32": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Request Local Merchant to submit proof of certification for the Communications Equipment issued by SIRIM."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Verify the certification status with SIRIM before the request to list any Communications Equipment can be granted."
+  }
+ ],
+ "R33": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "31 July 2025"
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "A person who commits such offence shall, on conviction, be liable to a fine not exceeding RM300,000.00 or to imprisonment for a term not exceeding three (3) years or to both."
+  }
+ ],
+ "R34": [
+  {
+   "source": "kpdn-cpettr-2024",
+   "quote": "(2) These Regulations come into operation on 25 December 2024."
+  },
+  {
+   "source": "kpdn-cpettr-2024",
+   "quote": "1. Name of the online marketplace supplier or company; 2. Website address of the online marketplace, if any; 3. E-mail address and telephone number of the online marketplace supplier;"
+  },
+  {
+   "source": "kpdn-cpettr-2024",
+   "quote": "5. Description of the main characteristics of the goods or services; 6. Full price of goods or services including transportation costs, taxes and any other cost; 7. Method of payment;"
+  },
+  {
+   "source": "kpdn-cpettr-2024",
+   "quote": "9. Estimated time of delivery of goods or supply of services to the purchaser;"
+  }
+ ],
+ "R35": [
+  {
+   "source": "kpdn-cpettr-2024",
+   "quote": "Perakuan bahawa barang atau perkhidmatan itu telah mengikut standard keselamatan dan kesihatan yang telah ditentukan oleh agensi berwibawa, jika ada."
+  },
+  {
+   "source": "kpdn-cpettr-2024",
+   "quote": "Maklumat yang dizahirkan oleh pembekal pasar dalam talian di pasar dalam talian hendaklah dalam bahasa kebangsaan."
+  }
+ ],
+ "R36": [
+  {
+   "source": "mcmc-cyl-howto",
+   "quote": "Retrieve IMEI number (*#06#) or locate serial number"
+  },
+  {
+   "source": "mcmc-cyl-howto",
+   "quote": "Key-in IMEI or serial number on recce.my website or CYL mobile app to check"
+  }
+ ],
+ "R37": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Step 1: Access eComM at https://ecomm.sirim.my and click ‘SIRIM Enquiry’."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Step 2: Click ‘Product Information’ and key in the product’s model."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Note: If the key in model number has never been certified, there is no result appear on the screen webpage."
+  }
+ ],
+ "R38": [
+  {
+   "source": "sirimqas-sirim-st-campaign",
+   "quote": "Consumer may also check the SIRIM-ST label through SIRIM QAS International’s mobile application that can be downloaded from AppStore app for the iOS platform or Google play store app for the Android platform."
+  },
+  {
+   "source": "sirimqas-malaysian-certified",
+   "quote": "Prospective buyers may refer to this directory to search for certified organizations and products by name, year of certification, type of certification scheme and other search parameters."
+  }
+ ],
+ "R39": [
+  {
+   "source": "customs-lvg-guide-2024",
+   "quote": "Sales tax on LVG shall be charged and levied at the rate of 10%."
+  },
+  {
+   "source": "customs-lvg-guide-2024",
+   "quote": "“Low Value Goods (LVG)” refers to all goods which are sold at a price not exceeding MYR500 and are brought into Malaysia by land, sea or air excluding:"
+  },
+  {
+   "source": "customs-lvg-guide-2024",
+   "quote": "The imposition of sales tax on LVG will be starting from 1 January 2024."
+  }
+ ],
+ "R40": [
+  {
+   "source": "customs-lvg-guide-2024",
+   "quote": "Any seller with the total sale value of LVG brought into Malaysia by land, sea or air mode in 12 months exceeds MYR500,000 is liable to be registered as RS."
+  }
+ ],
+ "R41": [
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Communications Equipment sold by Overseas Merchant is deemed as not certified for use in Malaysia."
+  }
+ ],
+ "R42": [
+  {
+   "source": "st-coa-how-apply",
+   "quote": "Log in using the ID and password at https://epermit.dagangnet.com , which is also linked through the Energy Commission (ST) website."
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "An applicant is required to apply for a Certificate of Approval (CoA) through the e-Permit website at https://epermit.dagangnet.com.my"
+  }
+ ],
+ "R43": [
+  {
+   "source": "st-cor",
+   "quote": "Renewal of CoR shall be made within one (1) month before the expiry date and not less than 14 days before the expiry date."
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "(3) Renewal of CoR is available to be made through the e-DIK system 2 months before the expiry date of the CoR."
+  }
+ ],
+ "R44": [
+  {
+   "source": "mcmc-faq-eqcert",
+   "quote": "liable to a fine not exceeding one hundred thousand ringgit (RM 100,000.00) or imprisonment for a term not exceeding six (6) months or both."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "A person who commits such offence shall, on conviction, be liable to a fine not exceeding RM300,000.00 or to imprisonment for a term not exceeding three (3) years or to both."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "31 July 2025"
+  }
+ ],
+ "R45": [
+  {
+   "source": "st-gaee-2024",
+   "quote": "Portable Battery Charger (up to 24 V)"
+  },
+  {
+   "source": "st-gaee-2024",
+   "quote": "Portable power station or similar equipment"
+  }
+ ]
+}

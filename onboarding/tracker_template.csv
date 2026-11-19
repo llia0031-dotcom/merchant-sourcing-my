@@ -1,0 +1,12 @@
+brand,subcategory,supply_type,milestone,owner,offset_days,first_contact_date,due_date,done_date,days_left,reminder,done_means,documents_or_numbers,notes
+{brand},{subcategory},{local or cross-border},First contact,category team,0,,,,,,first message sent (outreach template 1),,
+{brand},{subcategory},{local or cross-border},Needs call,category team + brand,7,,,,,,"call held; products, goals and help needed written down (template 3)",,
+{brand},{subcategory},{local or cross-border},Documents requested,category team,8,,,,,,category checklist and document list sent,,
+{brand},{subcategory},{local or cross-border},Documents received,brand,15,,,,,,"business registration, bank details and brand authorisation received",,
+{brand},{subcategory},{local or cross-border},Certificate numbers for regulated SKUs,brand,15,,,,,,CoA / MCMC certificate numbers listed per regulated SKU,,
+{brand},{subcategory},{local or cross-border},Account submitted,brand,17,,,,,,seller application submitted,,
+{brand},{subcategory},{local or cross-border},Account approved,platform,20,,,,,,account approved (template 4 sent),,
+{brand},{subcategory},{local or cross-border},First 10 SKUs live,brand,27,,,,,,"ten SKUs live with prices, photos and certificate numbers where needed",,
+{brand},{subcategory},{local or cross-border},First live stream,brand + creators,34,,,,,,first live stream or first creator video published,,
+{brand},{subcategory},{local or cross-border},Week-1 check-in,category team + brand,34,,,,,,week-1 numbers shared (template 5),,
+{brand},{subcategory},{local or cross-border},Day-30 review,category team + brand,57,,,,,,coldstart/metrics.sql weekly table reviewed together,,

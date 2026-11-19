@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.log
+*.batches.jsonl
+sources/snapshots/
+sources/.last_access.json

@@ -1,0 +1,134 @@
+{
+ "S01": [
+  {
+   "source": "SUMMARY",
+   "quote": "- public pages saved: 183 (42 official, 44 market, 96 brand pages, 1 full ranking)"
+  },
+  {
+   "source": "SUMMARY",
+   "quote": "- pages quoted in the insight, the checklist and the pool: 130"
+  }
+ ],
+ "S02": [
+  {
+   "source": "SUMMARY",
+   "quote": "- merchants in the candidate pool: 42 (brand 33, distributor 1, retailer 8)"
+  },
+  {
+   "source": "SUMMARY",
+   "quote": "- local merchants (Malaysian company or distributor): 23"
+  },
+  {
+   "source": "SUMMARY",
+   "quote": "- sub-categories covered: 9"
+  }
+ ],
+ "S03": [
+  {
+   "source": "SUMMARY",
+   "quote": "- checked values (each with a quote found in the saved page): 305"
+  }
+ ],
+ "S04": [
+  {
+   "source": "SUMMARY",
+   "quote": "- tiers: A 14, B 20, C 8"
+  },
+  {
+   "source": "SUMMARY",
+   "quote": "- segments: activate 18, check first 5, grow 2, open a shop 17"
+  }
+ ],
+ "S05": [
+  {
+   "source": "PRIORITY",
+   "quote": "## 1. Khind (Home appliances, local)"
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "Score 85.0 (tier A, activate): demand 3, gap 2, readiness 3, content 2."
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "- Sells well elsewhere: e-commerce made 4.2% of group revenue in 2025; direct-to-consumer sales rose from RM27.2 million in 2024 to RM49.3 million (annual report)"
+  }
+ ],
+ "S06": [
+  {
+   "source": "PRIORITY",
+   "quote": "## 2. VSTECS (Multi-category retail, local)"
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "Score 85.0 (tier A, open a shop): demand 2, gap 3, readiness 3, content 2."
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "- Sells well elsewhere: a network of over 4,000 partners"
+  }
+ ],
+ "S07": [
+  {
+   "source": "PRIORITY",
+   "quote": "## 3. CompAsia (Multi-category retail, local)"
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "## 4. Machines (Multi-category retail, local)"
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "- Sells well elsewhere: around 70 stores across the country, including Sabah and Sarawak"
+  },
+  {
+   "source": "PRIORITY",
+   "quote": "- Sells well elsewhere: more than 50 stores nationwide (2022)"
+  }
+ ],
+ "S08": [
+  {
+   "source": "malaymail-ipsos-tiktokshop-usage-2026",
+   "quote": "TikTok Shop continued to gain users, with 62 per cent of online shoppers saying they used the platform, up from 52 per cent in 2025 and 43 per cent in 2024."
+  }
+ ],
+ "S09": [
+  {
+   "source": "findniche-top100-electronics-my",
+   "quote": "14 | Baseus Malaysia | 200 | 532.19K | RM317.09K | 4.8"
+  },
+  {
+   "source": "findniche-top100-electronics-my",
+   "quote": "15 | UgreenOfficialShop | 350 | 505.56K | RM436.98K | 4.9"
+  },
+  {
+   "source": "findniche-top100-electronics-my",
+   "quote": "Compare 100 Phones & Electronics TikTok Shop sellers in Malaysia in this dataset, ranked by total units sold."
+  }
+ ],
+ "S10": [
+  {
+   "source": "rtm-lvg-rm817-juta-2025",
+   "quote": "Barangan Bernilai Rendah (LVG) mencatat kutipan hasil tambahan sebanyak RM817 juta pada 2025, meningkat daripada RM476 juta pada 2024 sejak pelaksanaannya, kata Kementerian Kewangan."
+  },
+  {
+   "source": "mof-lvg-kesaksamaan-persaingan",
+   "quote": "Cukai jualan pada kadar 10% dikenakan ke atas LVG bernilai RM500 ke bawah yang diimport ke Malaysia melalui jalan darat, laut atau udara ."
+  }
+ ],
+ "S11": [
+  {
+   "source": "st-faq-coa-processing-time",
+   "quote": "If the submitted documents are complete, the processing time for a New Certificate of Approval application is five (5) working days, whereas for a Renewal Certificate of Approval application, it is one (1) working day."
+  },
+  {
+   "source": "mcmc-ecommerce-guidelines",
+   "quote": "Provide clear evidence of the certification status in the product description section on the online shopping platform."
+  }
+ ],
+ "S12": [
+  {
+   "source": "SCORING",
+   "quote": "- v2 (2026-11-19, before any candidate row was filled or scored): the pack's focus moved to Malaysian brands,"
+  }
+ ]
+}
