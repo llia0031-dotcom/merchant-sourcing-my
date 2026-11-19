@@ -34,6 +34,7 @@ def main() -> int:
     quoted = {e["source"] for c in claims for e in c["evidence"]}
     for f in ("insight/evidence.json", "onboarding/evidence.json"):
         quoted |= {e["source"] for ev in json.loads((ROOT / f).read_text("utf-8")).values() for e in ev}
+    quoted &= {r["id"] for r in manifests}   # saved public pages only, not the pack's own result files
     lines = ["# Summary of results", "", "Counts computed by `tools/summary.py` from the result files.", "",
              f"- public pages saved: {len(manifests)} ({by_group.get('official', 0)} official, "
              f"{by_group.get('market', 0)} market, {by_group.get('brands', 0)} brand pages, "

@@ -124,6 +124,27 @@ class BuildTests(unittest.TestCase):
         build.check_frozen()
 
 
+class CalibrationTests(unittest.TestCase):
+    def test_checks_run_and_count(self):
+        import calibrate
+        import duckdb
+
+        con = duckdb.connect()
+        con.execute("CREATE TABLE scores (brand VARCHAR, tier VARCHAR, demand INT, gap INT, readiness INT, content INT)")
+        con.execute("INSERT INTO scores VALUES ('a','A',3,3,3,3), ('b','A',3,2,3,2), ('c','B',2,2,2,1), ('d','C',1,0,1,0)")
+        con.execute("CREATE TABLE outcomes (brand VARCHAR, contacted_on DATE, onboarded BOOLEAN, week4_gmv_per_day_rm DOUBLE)")
+        con.execute("INSERT INTO outcomes VALUES ('a','2026-01-05',true,900), ('b','2026-01-05',true,500), "
+                    "('c','2026-01-06',true,200), ('d','2026-01-06',false,NULL)")
+        out = calibrate.run_checks(con)
+        self.assertEqual(sorted(out), ["C1", "C2", "C3"])
+        c1 = {r[0]: r for r in out["C1"]}
+        self.assertEqual((c1["A"][1], c1["A"][2]), (2, 1.0))
+        self.assertEqual((c1["C"][1], c1["C"][2]), (1, 0.0))
+        c3 = {r[0]: r for r in out["C3"]}
+        self.assertEqual(c3["demand"][1], 3)          # three onboarded merchants
+        self.assertGreater(c3["demand"][2], 0.5)      # higher demand level, higher week-4 sales in this example
+
+
 class ColdstartTests(unittest.TestCase):
     def test_weekly_numbers_match_the_csv(self):
         import run as coldstart_run

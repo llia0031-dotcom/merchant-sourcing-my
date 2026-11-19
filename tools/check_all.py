@@ -27,6 +27,8 @@ import check_evidence as ce  # noqa: E402
 TAGGED = [  # document, evidence file
     ("insight/INSIGHTS.md", "insight/evidence.json"),
     ("insight/INSIGHTS.zh-CN.md", "insight/evidence.json"),
+    ("insight/DEEP_DIVE_CHARGING.md", "insight/evidence.json"),
+    ("insight/DEEP_DIVE_CHARGING.zh-CN.md", "insight/evidence.json"),
     ("onboarding/CHECKLIST.md", "onboarding/evidence.json"),
     ("README.md", "results/readme_evidence.json"),
     ("README.zh-CN.md", "results/readme_evidence.json"),
@@ -60,7 +62,7 @@ def tagged_claims(doc: Path, evidence: dict) -> tuple[list[dict], list[str]]:
             body = re.sub(r"\]\([^)]+\)|<!--.*?-->|https?://\S+", "", line)
             if doc.name.startswith("README"):
                 # numbers that describe the pack itself, not facts from sources
-                body = re.sub(r"^\s*\d+\.\s|Python 3\.\d+|SHA-256|(first |头 ?)30 ?(days|天)|30 days|first-30-days|\b8 (seconds|秒)|week-1", "", body)
+                body = re.sub(r"^\s*\d+\.\s|Python 3\.\d+|SHA-256|(first |头 ?)30 ?(days|天)|30 days|first-30-days|\b8 (seconds|秒)|week-1|week 4|第 4 周", "", body)
             if not in_sources and re.search(r"\d", body) and not re.fullmatch(r"\s*\|?[-:| ]+\|?\s*", line):
                 problems.append(f"{doc.relative_to(ROOT).as_posix()}:{n}: number without a source tag: {line.strip()[:90]}")
             continue

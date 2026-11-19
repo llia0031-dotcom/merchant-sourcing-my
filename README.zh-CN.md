@@ -1,28 +1,12 @@
 # 马来西亚电子类目招商样本
 
-一份马来西亚线上消费电子招商的“入职第一周作业”：市场是什么样、先联系哪些品牌、经销商和连锁店、凭什么，每类产品要哪些认证，入驻日期怎么跟进，新店头 30 天看什么，以及怎么写第一封信。每一条事实都链接到公开页面，并和存档原文逐字核对过。
+马来西亚线上消费电子的招商打法：先招哪些商家、凭什么，他们的产品要哪些认证，头 30 天怎么带。每条事实都链接到公开页面，并和存档原文核对过。
 
-[English](README.md) · [先联系谁](pool/PRIORITY.md) · [行业洞察](insight/INSIGHTS.zh-CN.md) · [资质清单](onboarding/CHECKLIST.md)
+[English](README.md) · [先联系谁](pool/PRIORITY.md) · [深挖：充电器和充电宝](insight/DEEP_DIVE_CHARGING.zh-CN.md) · [资质清单](onboarding/CHECKLIST.md) · [进了类目团队以后](pool/INSIDE_THE_TEAM.md)
 
-## 谁拿什么做什么
+## 发现了什么
 
-| 部分 | 谁用、用来做什么 | 文件 |
-|---|---|---|
-| 行业洞察 | 类目经理：先招哪些细分品类、哪类商家，用什么理由说服 | [insight/INSIGHTS.zh-CN.md](insight/INSIGHTS.zh-CN.md) |
-| 商家池和优先级 | 招商：先打给谁、每条理由的出处、公开联系渠道、下一步 | [pool/PRIORITY.md](pool/PRIORITY.md)、[pool/merchant_pool.xlsx](pool/merchant_pool.xlsx)、[pool/queries.sql](pool/queries.sql) |
-| 资质清单 | 商家（第一次通话后发过去）：要登记什么、检测什么、贴什么标签、上架页面写什么 | [onboarding/CHECKLIST.md](onboarding/CHECKLIST.md)（英文，引官方原文） |
-| 入驻跟进表 | 招商：每个商家一张表，填一个首次联系日期就排出各节点，逾期和临近的自动提醒 | [onboarding/tracker_template.xlsx](onboarding/tracker_template.xlsx) |
-| 头 30 天 | 带新店成长的人：每周指标、关键节点、预警 | [coldstart/](coldstart/) |
-| 触达模板 | 招商：首封信、跟进、要资料、启动、第一周复盘；英文，附一段简短的马来语开场 | [outreach/TEMPLATES.md](outreach/TEMPLATES.md) |
-
-## 里面有什么
-
-- 存了 183 个公开页面，其中 130 个被引用：官方 42 页、市场 44 页、品牌 96 页、完整店铺榜 1 份。 <!-- c:S01 -->
-- 商家池 42 家（品牌 33、经销商 1、连锁店 8），覆盖 9 个细分品类；23 家找到了马来西亚公司或具名的马来西亚经销商。 <!-- c:S02 -->
-- 商家池里 303 个格子，每个都有在存档页面里找得到的原文。 <!-- c:S03 -->
-- 按打分前就写死的规则排序：A 档 14 家、B 档 20 家、C 档 8 家；17 家是帮它开第一家内容电商店，18 家是帮已开但还小的店做起来。 <!-- c:S04 -->
-
-## 先联系谁
+**先联系谁**
 
 | 排名 | 商家 | 理由（每条都有公开出处） |
 |---|---|---|
@@ -32,19 +16,39 @@
 
 完整名单、每家的下一步和公开联系渠道见 [pool/PRIORITY.md](pool/PRIORITY.md)。“没找到内容电商店”只表示在读过的公开页面里没找到；第一次联系前先查平台自己的卖家名单。
 
-## 决定这份名单的三个发现
+**为什么先找本地商家**
 
 - 购物者已经在那里：Ipsos 调查显示，2026 年 62% 的马来西亚网购者用过 TikTok Shop，2025 年是 52%，2024 年是 43%。 <!-- c:S08 -->
 - 那里按件数领先的电子类卖家是配件卖家，比如 FindNiche 按销量排的 100 家店里 Baseus Malaysia 第 14、UgreenOfficialShop 第 15，所以在别处卖较高价电子产品的品牌是更缺的供给。 <!-- c:S09 -->
 - 本地卖家有政策顺风：500 令吉及以下进口商品的 10% 销售税 2025 年收了 RM817 juta（百万），2024 年是 RM476 juta。 <!-- c:S10 -->
 
+**深挖一个细分品类：充电器和充电宝。** 按件数领先的商品价格在 RM0.19 到 RM16.29 之间，品牌充电器从 MYR 69 起；能源委员会的批准由马来西亚进口商持有，所以第一个电话打给品牌的本地经销商。[深挖页](insight/DEEP_DIVE_CHARGING.zh-CN.md)。 <!-- c:S13 -->
+
+## 谁拿什么做什么
+
+| 部分 | 谁用、用来做什么 | 文件 |
+|---|---|---|
+| 行业洞察和细分品类深挖 | 类目经理：先招哪些细分品类、哪类商家，用什么理由说服 | [insight/](insight/) |
+| 商家池和优先级 | 招商：先打给谁、每条理由的出处、公开联系渠道、下一步 | [pool/PRIORITY.md](pool/PRIORITY.md)、[pool/merchant_pool.xlsx](pool/merchant_pool.xlsx)、[pool/queries.sql](pool/queries.sql) |
+| 资质清单 | 商家（第一次通话后发过去）：要登记什么、检测什么、贴什么标签、上架页面写什么 | [onboarding/CHECKLIST.md](onboarding/CHECKLIST.md)（英文，引官方原文） |
+| 入驻跟进表 | 招商：每个商家一张表，填一个首次联系日期就排出各节点，逾期和临近的自动提醒 | [onboarding/tracker_template.xlsx](onboarding/tracker_template.xlsx) |
+| 头 30 天 | 带新店成长的人：每周指标、关键节点、预警 | [coldstart/](coldstart/) |
+| 触达模板 | 招商：首封信、跟进、要资料、启动、第一周复盘；英文，附一段简短的马来语开场 | [outreach/TEMPLATES.md](outreach/TEMPLATES.md) |
+
+## 进了类目团队以后
+
+- 最弱的几格来自公开页面，也是最先换成平台自己数据的：有没有店、按商品的搜索需求、每个商品的资质记录。[pool/INSIDE_THE_TEAM.md](pool/INSIDE_THE_TEAM.md) 逐项写了换成什么、会改变什么。
+- 权重是起步时的假设。第一批商家联系完以后，用 [pool/calibration.sql](pool/calibration.sql) 对比各档和各维度与“有没有入驻、第 4 周卖了多少”的关系；要改权重，就在给下一批打分之前先写死新版本。
+
 ## 怎么做的
 
-1. **先用现成的。** 店铺排行工具（Kalodata、FastMoss、EchoTik、FindNiche）只排已经在平台上的商家，平台卖家后台的工具要卖家登录。它们都回答不了“还没进来或还没做起来的商家里先招谁”。这份样本用公开来源补这一块，现成工具的公开页面当输入。
-2. **怎么读页面。** 只读单个公开页面，先查 robots.txt（包括网站写给 AI 助手的规则），同一网站至少隔 8 秒，不登录；不读电商平台的商品页、店铺页、搜索页。网站要求 AI 助手不要读的，就不读。页面原文归原发布方：[sources/manifests/](sources/manifests/) 列出每个网址、读取时间和原文的 SHA-256，[tools/refetch.py](tools/refetch.py) 可以重新保存。
-3. **资质只引监管机构：** 能源委员会、MCMC、SIRIM QAS、KPDN、皇家关税局、SSM。资料齐全时能源委员会的新批准 5 个工作日办完，MCMC 要求在商品页写明认证情况。 <!-- c:S11 -->
-4. **按写死的规则打分。** [pool/SCORING.md](pool/SCORING.md) 在任何一行填写之前写好；规则一改，[pool/build.py](pool/build.py) 就拒绝打分。它的变更记录写明 v2 在任何一行打分之前替换了 v1。 <!-- c:S12 -->
-5. **每个格子都核对。** 引文不在页面里、数字不在引文里、或者引文里没有能当证据的词（Shopee 店要有“shopee”，认证要有 SIRIM、MCMC 或能源委员会），`pool/build.py` 就停下。[tools/check_all.py](tools/check_all.py) 用同样的方法核对洞察、清单和两份 README 里每一条带标签的话。核对工具是 [evidence-check](https://github.com/llia0031-dotcom/evidence-check)。
+- **先用现成的。** 店铺排行工具只排已经在平台上的商家，卖家后台的工具要卖家登录。这份样本补的是还没进来或还没做起来的商家，现成工具的公开页面当输入。
+- **只读公开页面，** 一次一页，先查 robots.txt（包括网站写给 AI 助手的规则），同一网站至少隔八秒，不登录，不读电商平台的商品页、店铺页、搜索页。页面原文归原发布方：[sources/manifests/](sources/manifests/) 列出每个网址、读取时间和指纹，[tools/refetch.py](tools/refetch.py) 可以重新保存。
+- **资质只引监管机构：** 能源委员会、MCMC、SIRIM QAS、KPDN、皇家关税局、SSM。资料齐全时能源委员会的新批准 5 个工作日办完，MCMC 要求在商品页写明认证情况。 <!-- c:S11 -->
+- **按打分前写死的规则打分。** [pool/SCORING.md](pool/SCORING.md) 的变更记录写明 v2 在任何一行打分之前替换了 v1；规则一改，[pool/build.py](pool/build.py) 就拒绝打分。 <!-- c:S12 -->
+- **每条事实都核对过**，用 [evidence-check](https://github.com/llia0031-dotcom/evidence-check) 对回存档原文：商家池由 [pool/build.py](pool/build.py) 核对，文档由 [tools/check_all.py](tools/check_all.py) 核对。
+
+规模：存了 183 个公开页面，其中 131 个被引用；商家池 42 家（品牌 33、经销商 1、连锁店 8），覆盖 9 个细分品类，23 家有马来西亚公司或具名的马来西亚经销商；商家池里 303 个格子，每个都有在存档页面里找得到的原文；A 档 14 家、B 档 20 家、C 档 8 家；17 家帮它开第一家内容电商店，18 家帮已开的店做起来。 <!-- c:S14 -->
 
 ## 怎么运行
 
