@@ -75,7 +75,7 @@ Score 80.0 (tier A, activate): demand 2, gap 2, readiness 3, content 3.
 
 Score 76.7 (tier A, activate): demand 3, gap 2, readiness 2, content 2.
 
-- Named in a public third-party estimate: “Oppo, which Omdia groups together with Realme, suffered the steepest decline among the top five vendors. Its shipments plunged 62% to 2.2 …” (soyacincau-omdia-my-smartphone-q3-2026); “Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share” (telecomlead-my-smartphone-q2-2026)
+- Named in a public third-party estimate: “OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each.” (telecomlead-my-smartphone-q2-2026)
 - Official online stores on other channels: own e-store; Shopee; Lazada
 - Links a content-commerce shop; not in the public top-shop rankings used here
 - Malaysian company or distributor: Jie Business Sdn. Bhd.
@@ -86,7 +86,7 @@ Score 76.7 (tier A, activate): demand 3, gap 2, readiness 2, content 2.
 
 Score 76.7 (tier A, activate): demand 3, gap 2, readiness 2, content 2.
 
-- Named in a public third-party estimate: “Oppo, which Omdia groups together with Realme, suffered the steepest decline among the top five vendors. Its shipments plunged 62% to 2.2 …” (soyacincau-omdia-my-smartphone-q3-2026); “collectively controlled 77 percent of Malaysian smartphone shipments, leaving 23 percent for Apple, Transsion, realme and other vendors. …” (telecomlead-my-smartphone-q2-2026)
+- Named in a public third-party estimate: “Omdia Southeast Asia smartphone market report indicated that the five brands collectively controlled 77 percent of Malaysian smartphone …” (telecomlead-my-smartphone-q2-2026)
 - Official online stores on other channels: Shopee; Lazada
 - Links a content-commerce shop; not in the public top-shop rankings used here
 - Malaysian company or distributor: DTL MALAYSIA SDN. BHD.
@@ -97,7 +97,7 @@ Score 76.7 (tier A, activate): demand 3, gap 2, readiness 2, content 2.
 
 Score 76.7 (tier A, activate): demand 3, gap 2, readiness 2, content 2.
 
-- Named in a public third-party estimate: “Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung” (soyacincau-omdia-my-smartphone-q3-2026); “Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share” (telecomlead-my-smartphone-q2-2026)
+- Named in a public third-party estimate: “Honor climbed to second place with an 18% share , while Samsung took third with 16% .” (soyacincau-omdia-my-smartphone-q3-2026); “OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each.” (telecomlead-my-smartphone-q2-2026)
 - Official online stores on other channels: own e-store; Shopee; Lazada
 - Links a content-commerce shop; not in the public top-shop rankings used here
 - Malaysian company or distributor: Samsung Malaysia Electronics (SME) Sdn. Bhd.

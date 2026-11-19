@@ -64,6 +64,10 @@ PRODUCT_WORDS = {
 }
 
 
+NEGATIVE = re.compile(r"declin|plung|\bfell\b|\bfall|\bdrop|\bslip|overtak|hardest hit|steepest|\blost\b|losing|contract|"
+                      r"slump|shrink|battle", re.I)
+
+
 class BuildError(Exception):
     pass
 
@@ -145,6 +149,17 @@ def window(line: str, a: int, b: int, width: int = 110) -> str:
     return line[s: sp if sp != -1 else len(line)].strip()
 
 
+def sentence(line: str, a: int, b: int) -> str:
+    """The sentence of the line that holds the match (verbatim), or a window around it when sentences run long."""
+    stops = [m.start() for m in re.finditer(r"(?<!\bNo)(?<!\bvs)(?<!\bMr)[.?!] ", line)]  # "No. 2" is not an end
+    before = [i for i in stops if i < a]
+    after = [i for i in stops if i >= b]
+    s = before[-1] + 2 if before else 0
+    e = after[0] + 1 if after else len(line)
+    out = line[s:e].strip()
+    return out if 20 <= len(out) <= 300 else window(line, a, b)
+
+
 def name_pattern(c: dict) -> re.Pattern:
     names = [c["brand"]] + c.get("aliases", [])
     return re.compile(r"(?<![A-Za-z0-9])(" + "|".join(re.escape(n) for n in names) + r")(?![A-Za-z0-9])", re.I)
@@ -163,13 +178,15 @@ def third_party(c: dict, demand_sources: list[dict]) -> tuple[int, list[dict], b
                 continue  # filter menus, headings and link lists, not ranking rows
             if kind == "vendor-share" and not re.search(r"%|per ?cent", line, re.I):
                 continue  # a vendor-share source counts only on a line that gives a share
+            if kind == "vendor-share" and NEGATIVE.search(line):
+                continue  # a recruiting list cites a merchant's market position, not news of its losses
             if kind in ("vendor-share", "shop-ranking"):
                 m = pat.search(line)
                 if m:
                     if best < 3:
                         best, ev = 3, []
                     if not any(e["source"] == s["source_id"] for e in ev):
-                        ev.append({"source": s["source_id"], "quote": window(line, m.start(), m.end()), "_kind": kind})
+                        ev.append({"source": s["source_id"], "quote": sentence(line, m.start(), m.end()), "_kind": kind})
                     if kind == "shop-ranking" and s.get("content_commerce") == "yes":
                         ranked = True
             elif kind == "trending-products" and best < 2:

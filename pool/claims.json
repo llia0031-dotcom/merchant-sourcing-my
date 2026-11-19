@@ -2054,15 +2054,11 @@
   },
   {
    "id": "Pensonic|public contact route",
-   "text": "public contact route: customerservice@pensonic.com; 1-800-881-770",
+   "text": "public contact route: customerservice@pensonic.com",
    "evidence": [
     {
      "source": "pensonic-contact",
      "quote": "customerservice@pensonic.com"
-    },
-    {
-     "source": "pensonic-contact",
-     "quote": "1-800-881-770"
     }
    ]
   },
@@ -2938,41 +2934,31 @@
   },
   {
    "id": "HONOR|named in a public estimate",
-   "text": "named in a public estimate: Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung",
+   "text": "named in a public estimate: Xiaomi leads Malaysia with 21% market share, Honor rises to No. 2",
    "evidence": [
     {
      "source": "soyacincau-omdia-my-smartphone-q3-2026",
-     "quote": "Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung"
+     "quote": "Xiaomi leads Malaysia with 21% market share, Honor rises to No. 2"
     }
    ]
   },
   {
    "id": "HONOR|named in a public estimate",
-   "text": "named in a public estimate: Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share",
+   "text": "named in a public estimate: HONOR and vivo followed with 13 percent each.",
    "evidence": [
     {
      "source": "telecomlead-my-smartphone-q2-2026",
-     "quote": "Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share"
+     "quote": "HONOR and vivo followed with 13 percent each."
     }
    ]
   },
   {
    "id": "realme|named in a public estimate",
-   "text": "named in a public estimate: Oppo, which Omdia groups together with Realme, suffered the steepest decline among the top five vendors. Its shipments plunged 62% to 2.2 million units, bringing its market share down from 23% to just 13%.",
-   "evidence": [
-    {
-     "source": "soyacincau-omdia-my-smartphone-q3-2026",
-     "quote": "Oppo, which Omdia groups together with Realme, suffered the steepest decline among the top five vendors. Its shipments plunged 62% to 2.2 million units, bringing its market share down from 23% to just 13%."
-    }
-   ]
-  },
-  {
-   "id": "realme|named in a public estimate",
-   "text": "named in a public estimate: collectively controlled 77 percent of Malaysian smartphone shipments, leaving 23 percent for Apple, Transsion, realme and other vendors. OPPO’s lead over Samsung and Xiaomi was only three percentage points, indicating that promotions,",
+   "text": "named in a public estimate: Omdia Southeast Asia smartphone market report indicated that the five brands collectively controlled 77 percent of Malaysian smartphone shipments, leaving 23 percent for Apple, Transsion, realme and other vendors.",
    "evidence": [
     {
      "source": "telecomlead-my-smartphone-q2-2026",
-     "quote": "collectively controlled 77 percent of Malaysian smartphone shipments, leaving 23 percent for Apple, Transsion, realme and other vendors. OPPO’s lead over Samsung and Xiaomi was only three percentage points, indicating that promotions,"
+     "quote": "Omdia Southeast Asia smartphone market report indicated that the five brands collectively controlled 77 percent of Malaysian smartphone shipments, leaving 23 percent for Apple, Transsion, realme and other vendors."
     }
    ]
   },
@@ -3008,81 +2994,71 @@
   },
   {
    "id": "Xiaomi|named in a public estimate",
-   "text": "named in a public estimate: Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung",
+   "text": "named in a public estimate: Xiaomi leads Malaysia with 21% market share, Honor rises to No. 2",
    "evidence": [
     {
      "source": "soyacincau-omdia-my-smartphone-q3-2026",
-     "quote": "Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung"
+     "quote": "Xiaomi leads Malaysia with 21% market share, Honor rises to No. 2"
     }
    ]
   },
   {
    "id": "Xiaomi|named in a public estimate",
-   "text": "named in a public estimate: Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share",
+   "text": "named in a public estimate: OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each.",
    "evidence": [
     {
      "source": "telecomlead-my-smartphone-q2-2026",
-     "quote": "Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share"
+     "quote": "OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each."
     }
    ]
   },
   {
    "id": "Samsung|named in a public estimate",
-   "text": "named in a public estimate: Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung",
+   "text": "named in a public estimate: Honor climbed to second place with an 18% share , while Samsung took third with 16% .",
    "evidence": [
     {
      "source": "soyacincau-omdia-my-smartphone-q3-2026",
-     "quote": "Malaysia smartphone shipments plunge over 30% in Q3 2026, Xiaomi leads while Honor overtakes Samsung"
+     "quote": "Honor climbed to second place with an 18% share , while Samsung took third with 16% ."
     }
    ]
   },
   {
    "id": "Samsung|named in a public estimate",
-   "text": "named in a public estimate: Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share",
+   "text": "named in a public estimate: OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each.",
    "evidence": [
     {
      "source": "telecomlead-my-smartphone-q2-2026",
-     "quote": "Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share"
+     "quote": "OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each."
     }
    ]
   },
   {
    "id": "OPPO|named in a public estimate",
-   "text": "named in a public estimate: Oppo, which Omdia groups together with Realme, suffered the steepest decline among the top five vendors. Its shipments plunged 62% to 2.2 million units, bringing its market share down from 23% to just 13%.",
-   "evidence": [
-    {
-     "source": "soyacincau-omdia-my-smartphone-q3-2026",
-     "quote": "Oppo, which Omdia groups together with Realme, suffered the steepest decline among the top five vendors. Its shipments plunged 62% to 2.2 million units, bringing its market share down from 23% to just 13%."
-    }
-   ]
-  },
-  {
-   "id": "OPPO|named in a public estimate",
-   "text": "named in a public estimate: Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share",
+   "text": "named in a public estimate: OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each.",
    "evidence": [
     {
      "source": "telecomlead-my-smartphone-q2-2026",
-     "quote": "Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share"
+     "quote": "OPPO secured first place with a 19 percent shipment share, while Samsung and Xiaomi tied at 16 percent each."
     }
    ]
   },
   {
    "id": "vivo|named in a public estimate",
-   "text": "named in a public estimate: Honor climbed to second place with an 18% share , while Samsung took third with 16% . Apple came in fourth with 11% , followed by Vivo, also with 11% .",
+   "text": "named in a public estimate: Apple came in fourth with 11% , followed by Vivo, also with 11% .",
    "evidence": [
     {
      "source": "soyacincau-omdia-my-smartphone-q3-2026",
-     "quote": "Honor climbed to second place with an 18% share , while Samsung took third with 16% . Apple came in fourth with 11% , followed by Vivo, also with 11% ."
+     "quote": "Apple came in fourth with 11% , followed by Vivo, also with 11% ."
     }
    ]
   },
   {
    "id": "vivo|named in a public estimate",
-   "text": "named in a public estimate: Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share",
+   "text": "named in a public estimate: HONOR and vivo followed with 13 percent each.",
    "evidence": [
     {
      "source": "telecomlead-my-smartphone-q2-2026",
-     "quote": "Malaysia Smartphone Market Q2 2026: OPPO Leads with 19% as Samsung, Xiaomi, HONOR and vivo Battle for Share"
+     "quote": "HONOR and vivo followed with 13 percent each."
     }
    ]
   },

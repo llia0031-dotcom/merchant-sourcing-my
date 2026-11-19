@@ -7,7 +7,7 @@ Counts computed by `tools/summary.py` from the result files.
 - merchants in the candidate pool: 42 (brand 33, distributor 1, retailer 8)
 - local merchants (Malaysian company or distributor): 23
 - sub-categories covered: 9
-- checked values (each with a quote found in the saved page): 305
+- checked values (each with a quote found in the saved page): 303
 - merchants with a content-commerce shop found in public sources: 19
 - merchants whose own pages link a Malaysian short-video account: 13
 - tiers: A 14, B 20, C 8

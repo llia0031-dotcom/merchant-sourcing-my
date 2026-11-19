@@ -1603,15 +1603,11 @@
     "value": "not found in public sources"
    },
    "contact": {
-    "value": "customerservice@pensonic.com; 1-800-881-770",
+    "value": "customerservice@pensonic.com",
     "evidence": [
      {
       "source": "pensonic-contact",
       "quote": "customerservice@pensonic.com"
-     },
-     {
-      "source": "pensonic-contact",
-      "quote": "1-800-881-770"
      }
     ]
    }

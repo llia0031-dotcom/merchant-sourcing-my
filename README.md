@@ -19,7 +19,7 @@ A first-week recruiting pack for Malaysian online consumer electronics: what the
 
 - 183 public pages saved, 130 of them quoted: 42 official pages, 44 market pages, 96 brand pages and 1 full shop ranking. <!-- c:S01 -->
 - A pool of 42 merchants (33 brands, 1 distributor, 8 retailers) across 9 sub-categories; 23 have a Malaysian company or a named Malaysian distributor. <!-- c:S02 -->
-- 305 values in the pool, each with a quote found in its saved page. <!-- c:S03 -->
+- 303 values in the pool, each with a quote found in its saved page. <!-- c:S03 -->
 - Priority by rules written before scoring: 14 merchants in tier A, 20 in B, 8 in C; 17 to help open a first content-commerce shop, 18 to help activate a shop that is not yet large. <!-- c:S04 -->
 
 ## Who to contact first
