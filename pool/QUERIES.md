@@ -93,8 +93,8 @@ ORDER BY tier, merchants DESC
 | B | local | brand | 4 |
 | B | local | retailer | 1 |
 | C | not found in public sources | brand | 4 |
-| C | local | brand | 2 |
 | C | local | retailer | 2 |
+| C | local | brand | 2 |
 
 ## Q4. Where each brand already sells, and where content commerce would be new.
 
